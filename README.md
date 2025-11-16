@@ -1,5 +1,7 @@
 # Kicau Mono Repo
 
+https://github.com/user-attachments/assets/405634ff-c608-4739-90b3-4d87b80b831b
+
 A full-stack bird sound identification application with NestJS backend, Python inference service, React frontend, and PostgreSQL database, all containerized with Docker.
 
 ## 🏗️ Architecture
